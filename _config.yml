@@ -1,4 +1,12 @@
-theme: minima
-
-
+title: Adeline Kelly
 description: Earth Data Science Project Portfolio
+
+remote_theme: jekyll/minima
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+
+minima:
+  skin: solarized-dark
+  nav_pages: []
