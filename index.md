@@ -27,5 +27,19 @@ I started my research career in my undergrad at the University of Kansas (Rock C
 
 Mountain lakes are unique study systems that act as natural laboratories for studying environmental change. Their high elevation, small watersheds, relatively simple hydrology, and remoteness make them sensitive to novel external inputs, warming air temperatures, and drought - each mountain lake is unique, but they are all connected by climate. Given this, these lakes are sentinels of climate change and indicators of watershed (and overall ecosystem) health that often respond to change before other ecosystems. However, the remoteness that gives mountain lakes their unique value also makes studying them challenging. Accessing these lakes, maintaining instrumentation, collecting samples, etc. is costly, logistically challenging, and time consuming. This makes it difficult to study many of them, limiting our ability to understand how climate is driving change across regions.    
 
-I am excited to use earth data science, namely remote sensing, to overcome some of these challenges. Lake color and other remotely sensed aspects of a lake can tell us a lot about its water quality, and can allow us to study many lakes at once across both space and time. My work uses other strategies such as paleolimnology, which can provide a detailed view of the history of one lake at a time; however, this approach is expensive and hard to apply at a large scale. I am hoping that I can use earth science data to address some of my research questions that focus on what factors govern the sensitivity of lakes to change. While I love mountain lake fieldwork, I'm excited to look at many lakes at once!   
+I am excited to use earth data science, namely remote sensing, to overcome some of these challenges. Lake color and other remotely sensed aspects of a lake can tell us a lot about its water quality, and can allow us to study many lakes at once across both space and time. My work uses other strategies such as paleolimnology, which can provide a detailed view of the history of one lake at a time; however, this approach is expensive and hard to apply at a large scale. I am hoping that I can use earth science data to address some of my research questions that focus on what factors govern the sensitivity of lakes to change. While I love mountain lake fieldwork, I'm excited to look at many lakes at once!    
+
+## Check out my first map    
+Here's a map of the University of Kansas, where I did my undergrad.   
+
+<embed type="text/html" src="img/ku.html" width="600" height="600">
+
+
+
+
+
+
+
+
+
 
