@@ -4,7 +4,10 @@
 
 **PhD student in the [Mountain Limnology Lab](https://www.mountainlimnologylab.com/), based in [INSTAAR](https://www.colorado.edu/instaar/) and [EBIO](https://www.colorado.edu/ebio/) at CU Boulder.**      
 
-![Sediment coring is fun](/img/AK_coring.jpg "sediment coring")
+<img
+  src="/img/AK_coring.jpg"
+  alt="sediment coring"
+  width="50%">
 
 **Limnology: the study of inland bodies of water**  
 
@@ -17,8 +20,8 @@ I started my research career in my undergrad at the University of Kansas (Rock C
 
 ## Contact me!
 * Email: adeline.kelly@colorado.edu
-* Github: https://github.com/adelinekelly
-* ORCID: https://orcid.org/0009-0003-3459-6746   
+* Github: <https://github.com/adelinekelly>
+* ORCID: <https://orcid.org/0009-0003-3459-6746>   
 
 ## Why earth data science? 
 
