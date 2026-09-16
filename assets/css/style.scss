@@ -3,6 +3,20 @@
 
 @import "{{ site.theme }}";
 
-.site-header {
+.site-nav {
   display: none;
+}
+
+.site-header {
+  border-top: none;
+}
+
+.site-title {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.site-description {
+  font-size: 18px;
+  margin-top: 5px;
 }
