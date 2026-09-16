@@ -1,22 +1,9 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
-.site-nav {
-  display: none;
-}
+@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+@import "minima/initialize";
 
 .site-header {
-  border-top: none;
-}
-
-.site-title {
-  font-size: 32px;
-  font-weight: bold;
-}
-
-.site-description {
-  font-size: 18px;
-  margin-top: 5px;
+  display: none;
 }
