@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "KU Interactive Map"
-permalink: /ku_map/
+permalink: /ku_map
 ---
 
 ### Interactive map of the University of Kansas    
