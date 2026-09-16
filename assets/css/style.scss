@@ -5,11 +5,9 @@
 @import "minima/initialize";
 
 .site-header {
-  display: none;
+  display: none !important;
 }
 
 .site-nav {
-  display: none;
+  display: none !important;
 }
-
-
