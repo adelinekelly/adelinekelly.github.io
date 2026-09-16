@@ -1,5 +1,3 @@
-# Earth Data Science Project Portfolio
-
 **PhD student in the [Mountain Limnology Lab](https://www.mountainlimnologylab.com/), based in [INSTAAR](https://www.colorado.edu/instaar/) and [EBIO](https://www.colorado.edu/ebio/) at CU Boulder.**      
 
 <img
