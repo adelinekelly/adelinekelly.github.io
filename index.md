@@ -2,7 +2,9 @@
 
 # Earth Data Science Project Portfolio
 
-**PhD student in the [Mountain Limnology Lab](https://www.mountainlimnologylab.com/), based in [INSTAAR](https://www.colorado.edu/instaar/) and [EBIO](https://www.colorado.edu/ebio/) at CU Boulder.**   
+**PhD student in the [Mountain Limnology Lab](https://www.mountainlimnologylab.com/), based in [INSTAAR](https://www.colorado.edu/instaar/) and [EBIO](https://www.colorado.edu/ebio/) at CU Boulder.**      
+
+![Sediment coring is fun](/img/AK_coring.jpg "sediment coring")
 
 **Limnology: the study of inland bodies of water**  
 
