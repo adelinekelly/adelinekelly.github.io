@@ -10,13 +10,11 @@ permalink: /wolfcreek_climate/
 * Metal concentrations are increasing in high-elevation streams in Mineral County - warming temperatures are leading to melting permafrost, in turn driving increases in weathering and acid rock drainage. <https://aspenjournalism.org/climate-change-causing-increase-in-metals-concentrations-in-streams-study-finds/>
 
 ### Study site: Wolf Creek Pass, Mineral County, CO  
-<embed type="text/html" src="{{ '/img/wolfcreek_map.html' | relative_url }}" width="600" height="600">    
-
+<embed type="text/html" src="{{ '/img/wolfcreek_map.html' | relative_url }}" width="800" height="800">    
 Wolf Creek Pass (summit denoted by white triangle) is a high mountain pass in the San Juan Mountains of Colorado, located in Mineral County (blue border). It is named for Wolf Creek, a stream in Mineral County which starts near the top of the pass and flows down the Western side of the pass where it joins with the West Fork San Juan River. The region has a subarctic climate and receives precipitation year-round. Average annual snowfall is 391.1 inches, making it one of the snowiest areas in Colorado.   
 
 ### Yearly average temperature
-<embed type="text/html" src="{{ '/img/ann_temp_wolfcreek_plot.html' | relative_url }}" width="600" height="600">
-
+<embed type="text/html" src="{{ '/img/ann_temp_wolfcreek_plot.html' | relative_url }}" width="800" height="800">
 The above graph shows annual average temperatures (in ºC) over time on the Wolf Creek Pass Summit. The maximum mean annual temperature recorded was 1.169ºC (in 2020), and the minimum mean annual temperature recorded was -4.129ºC (in 1986). Note that monitoring began in 1986, so it is possible that only winter temperatures were recorded that year. The next-lowest mean annual temperature was -3.356ºC, recorded in 1987. The above graph is interactive - you can check out the average annual temperature in other years, too. 
 
 ### So how much is the temperature changing over time? 
@@ -33,8 +31,7 @@ With that being said, we probably want to be careful with how we apply this anal
 <img
   src="/img/wolfcreek_temperature_trend.png"
   alt="wolfcreek temperature trend"
-  width="50%">
-
+  width="75%">
 #### Wolf Creek Pass Summit temperatures have been rising over the past 40 years, and continue to rise
 The above figure shows the mean annual temperature over time on the Wolf Creek Pass Summit with a trendline fit via linear OLS regression. The slope of the trendline is 0.10886904, indicating that **temperatures on Wolf Creek Pass are rising by roughly 0.0109ºC per year.** This is greater than the global average yearly temperature increase of ~0.03ºC. 
 
