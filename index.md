@@ -33,7 +33,7 @@ I am excited to use earth data science, namely remote sensing, to overcome some 
 [Here's a map of the University of Kansas](https://adelinekelly.github.io/ku_map/)   
 
 ## Portfolio post #1: How is climate change impacting Wolf Creek Pass, Mineral County, CO?
-[An analysis of the temperature trends of the Wolf Creek Pass Summit](https://adelinekelly.github.io/wolfcreek_climatechange/)
+[An analysis of the temperature trends of the Wolf Creek Pass Summit](https://adelinekelly.github.io/wolfcreek_climate/)
 
 
 
