@@ -14,7 +14,7 @@ permalink: /wolfcreek_climate/
 Wolf Creek Pass (summit denoted by white triangle) is a high mountain pass in the San Juan Mountains of Colorado, located in Mineral County (blue border). It is named for Wolf Creek, a stream in Mineral County which starts near the top of the pass and flows down the Western side of the pass where it joins with the West Fork San Juan River. The region has a subarctic climate and receives precipitation year-round. Average annual snowfall is 391.1 inches, making it one of the snowiest areas in Colorado.   
 
 ### Yearly average temperature
-<embed type="text/html" src="{{ '/img/ann_temp_wolfcreek_plot.html' | relative_url }}" width="800" height="200">
+<embed type="text/html" src="{{ '/img/ann_temp_wolfcreek_plot.html' | relative_url }}" width="800" height="300">
 The above graph shows annual average temperatures (in ºC) over time on the Wolf Creek Pass Summit. The maximum mean annual temperature recorded was 1.169ºC (in 2020), and the minimum mean annual temperature recorded was -4.129ºC (in 1986). Note that monitoring began in 1986, so it is possible that only winter temperatures were recorded that year. The next-lowest mean annual temperature was -3.356ºC, recorded in 1987. The above graph is interactive - you can check out the average annual temperature in other years, too. 
 
 ### So how much is the temperature changing over time? 
